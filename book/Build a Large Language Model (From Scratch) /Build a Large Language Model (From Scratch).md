@@ -10,7 +10,7 @@ Videos: https://www.youtube.com/watch?v=yAcWnfsZhzo&list=PLTKMiZHVd_2IIEsoJrWACk
 python3 -m venv python-virtual-environment/
 
 # activo el entorno virtual
-cd /home/jose/Documentos/IA/projects/Build-a-Large-Language-Model-From-Scratch
+cd /home/jose/Documentos/AI/projects/Build-a-Large-Language-Model-From-Scratch
 source ./python-virtual-environment/bin/activate
 
 # desactivo el entorno virtual
@@ -19,7 +19,7 @@ deactivate
 
 # instalo los prereq
 ```bash
-cd /home/jose/Documentos/IA/projects/Build-a-Large-Language-Model-From-Scratch/LLMs-from-scratch-main
+cd /home/jose/Documentos/AI/projects/Build-a-Large-Language-Model-From-Scratch/LLMs-from-scratch-main
 pip install -r requirements.txt
 ```
 
