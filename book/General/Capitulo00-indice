@@ -1,0 +1,150 @@
+1. Fundamentos
+2. Cómo aprende un Transformer
+3. Cómo razona durante la inferencia
+4. RAG y conocimiento externo
+5. Agentes
+6. Entrenamiento avanzado
+7. Azure AI Engineering
+8. Investigación
+
+BLOQUE 1 — ¿Qué es realmente la Inteligencia?
+Objetivo: Comprender qué significa realmente "inteligencia".
+Temas:
+- ¿Qué es la inteligencia?
+- Datos vs información vs conocimiento
+- ¿Por qué un LLM parece inteligente?
+- Predicción del siguiente token
+- Representación del conocimiento
+- Tokenización
+- Embeddings
+
+BLOQUE 2 — ¿Cómo aprende un Transformer?
+Objetivo: Entender el motor interno.
+Temas:
+- Attention
+- Query, Key y Value
+- Multi-Head Attention
+- Parámetros
+- Forward Pass
+- Loss Functions
+- Softmax
+- Cross Entropy
+- Backpropagation
+- Gradient Descent
+- Epochs
+- Batches
+- In-Context Learning
+- Context Window
+
+BLOQUE 3 — ¿Cómo "piensa" un LLM durante la inferencia?
+Temas:
+- Chain of Thought
+- Razonamiento emergente
+- Prompt Engineering
+- Zero-Shot
+- Few-Shot
+- Self-Consistency
+- Temperature
+- Top-K
+- Top-P
+- Sampling
+- Hallucinations
+- ¿Por qué se equivoca un LLM?
+- Memoria conversacional
+
+
+
+BLOQUE 4 — Recuperar conocimiento (RAG)
+
+Aquí empezamos a conectar con Azure.
+
+Temas:
+
+¿Por qué RAG existe?
+Embeddings en Azure AI Search
+Vector Databases
+Similaridad coseno
+Chunking
+Indexación
+Recuperación
+Re-ranking
+Grounding
+Citas
+Hybrid Search
+
+
+
+BLOQUE 5 — Agentes
+
+Aquí empieza la IA "activa".
+
+Temas:
+
+¿Qué es un agente?
+Planificación
+Herramientas
+Function Calling
+MCP
+Memoria
+Reflexión
+Multi-Agent Systems
+
+
+
+BLOQUE 6 — Entrenar modelos
+
+Muchísima gente confunde esto con usar GPT.
+
+Aquí aprenderemos:
+
+Fine-Tuning
+LoRA
+QLoRA
+PEFT
+RLHF
+DPO
+Distillation
+Synthetic Data
+Evaluación
+
+
+
+BLOQUE 7 — Arquitectura empresarial (Azure)
+
+Aquí ya entra tu trabajo diario.
+
+Temas:
+
+Azure OpenAI
+Azure AI Foundry
+AI Search
+Content Safety
+Managed Identity
+Prompt Flow
+Semantic Kernel
+LangChain
+MCP en Azure
+Seguridad
+Costes
+Observabilidad
+Gobernanza
+
+
+
+BLOQUE 8 — Investigación
+
+Aquí ya hablamos de lo último.
+
+Temas:
+
+Mixture of Experts
+Reasoning Models
+Test-Time Compute
+Model Context Protocol
+World Models
+Multimodalidad
+Vision Transformers
+Diffusion Models
+AGI
+IA Física
+Futuro de la IA
